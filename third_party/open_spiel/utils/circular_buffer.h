@@ -15,6 +15,7 @@
 #ifndef THIRD_PARTY_OPEN_SPIEL_UTILS_CIRCULAR_BUFFER_H_
 #define THIRD_PARTY_OPEN_SPIEL_UTILS_CIRCULAR_BUFFER_H_
 
+#include <spiel.h>
 #include <algorithm>
 #include <random>
 #include <unordered_set>
