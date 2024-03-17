@@ -1,5 +1,7 @@
 This is a implementation for Neural OMD with Bootstrapping(Neural OMD-B).
 
+The Neural OMD-B algorithm file is /deep_cfr/deep_sbescfr.cc、/deep_cfr/deep_sbescfr_solver.cc、/deep_cfr/deep_sbescfr_solver.h.
+
 docker image are soo large to push to github.
 
 if you need it ,send email to zjxkz20170625@mail.ustc.edu.cn
